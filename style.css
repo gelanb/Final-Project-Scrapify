@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+ h1 {
+    text-align: center;
+    color: white;
+    font-size: 300%;
+    text-shadow: 5px 5px 5px rgb(99, 0, 145);
+    margin: 30px;
+ }
+ p {
+     text-align: center;
+     color: white;
+     margin: 30px;
+
+ }
+.videowrapper iframe {
+    width: 470px;
+    height: 470px;
+}
