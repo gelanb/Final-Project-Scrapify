@@ -7,6 +7,6 @@ Scrapify is a revolutionary product research method that helps entrepreneurs qui
 - The list should have a tuple of the video url and the number of likes the video has. 
 - Watch video for further explanation.
 
-### Here is the video:
+## Here is the video:
 https://www.youtube.com/watch?v=N5QrAr-Q3i0
 
